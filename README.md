@@ -7,7 +7,7 @@
 <p><font size="-1"><b>News</b>:<br>
 <li><a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8022792170454236947&as_sdt=5">Papers citing GEM</a>
 <li>GEM has been selected to be part of the <a href="https://www.encodeproject.org/software/gem/">ENCODE TF ChIP-seq analysis pipeline.</a>
-<li><img src="images/MIT_news_logo.jpg" height='20'> <a href="http://web.mit.edu/newsoffice/2012/deciphering-the-language-of-transcription-factors-0910.html"><b>Deciphering the language of transcription factors</b></a> (MIT News article on the GEM paper).
+<li> <a href="http://web.mit.edu/newsoffice/2012/deciphering-the-language-of-transcription-factors-0910.html"><b>Deciphering the language of transcription factors</b></a> (MIT News article on the GEM paper).
 </ul>
       <p><font style="font-family: arial,sans-serif; font-size: 10pt;"><b>GEM is a scientific software for studying protein-DNA interaction at high resolution using ChIP-seq/ChIP-exo data. It can also be applied to CLIP-seq and Branch-seq data.</b> <br>GEM links binding event discovery and motif discovery with positional priors in the context of a generative probabilistic model of ChIP data and genome sequence, resolves ChIP data into explanatory motifs and binding events at unsurpassed spatial resolution. GEM reciprocally improves motif discovery using binding event locations, and binding event predictions using discovered motifs.  </p>
       <p><font style="font-family: arial,sans-serif; font-size: 10pt;">GEM has following features:
