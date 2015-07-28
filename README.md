@@ -1,10 +1,5 @@
 # GEM
-<html><body>
-<table border=0 cellspacing=20>
-  <tr>
-    <td width=1000>
-  
-      <h1>GEM: High resolution peak calling and motif discovery for ChIP-seq and ChIP-exo data</h1> 
+ High resolution peak calling and motif discovery for ChIP-seq and ChIP-exo data</h1> 
       <font size='+2'><b>G</b>enome wide <font size='+2'><b>E</b>vent finding and <font size='+2'><b>M</b>otif discovery
       <p><font size="-1"><b>Citation</b>:<br>
       <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002638">High Resolution Genome Wide Binding Event Finding and Motif Discovery Reveals Transcription Factor Spatial Binding Constraints</a>. Yuchun Guo, Shaun Mahony &amp; David K Gifford, (2012) PLoS Computational Biology 8(8): e1002638.
