@@ -29,7 +29,7 @@ GEM is implemented in Java, which comes with all the major operating systems.<p>
 
 <h3 style="color: RoyalBlue;"><a class="anchor" id="download"></a>Download</h3>
 <p>Download, unzip, and run ... see command line <a href="#examples">examples</a>.<p>
-<a href="versions.html"><img src="images/downloads.jpg" height='30'> Download GEM software (version 2.6) and test data </a>
+<a href="http://cgs.csail.mit.edu/gem/versions.html"> Download GEM software (version 2.6) and test data </a>
 
 <h3 style="color: RoyalBlue;"><a class="anchor" id="gemvsgps"></a>GEM vs. GPS</h3>
 <p>GEM is a superset of <a href="http://cgs.csail.mit.edu/gps/">GPS</a>. GEM uses both ChIP-seq read data and genome sequence to perform de novo motif discovery and binding event calling, while GPS uses only  ChIP-seq read data for binding event calling. <p>
