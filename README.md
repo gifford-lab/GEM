@@ -4,7 +4,7 @@
       <p><font size="-1"><b>Citation</b>:<br>
       <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002638">High Resolution Genome Wide Binding Event Finding and Motif Discovery Reveals Transcription Factor Spatial Binding Constraints</a>. Yuchun Guo, Shaun Mahony &amp; David K Gifford, (2012) PLoS Computational Biology 8(8): e1002638.
       
-    <font size="1-1">News:</font>
+    <font size="-1"><b>News:</br></font>
 <li><a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8022792170454236947&as_sdt=5">Papers citing GEM</a>
 <li>GEM has been selected to be part of the <a href="https://www.encodeproject.org/software/gem/">ENCODE TF ChIP-seq analysis pipeline.</a>
 <li><img src="images/MIT_news_logo.jpg" height='20'> <a href="http://web.mit.edu/newsoffice/2012/deciphering-the-language-of-transcription-factors-0910.html"><b>Deciphering the language of transcription factors</b></a> (MIT News article on the GEM paper).
