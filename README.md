@@ -139,7 +139,7 @@ prediction and read distribution files for multiple rounds. <a href="#QA">(See m
 <li>GEM event text file (GEM_events.txt, <a href="#gem">see more details</a>) 
 <li>K-mer set motifs (KSM.txt, <a href="#ksm">see more details</a>)
 <li>PFM file of PWM motifs (PFM.txt)
-<li>HTML file summarizing the GEM event and motif results <a href='http://cgs.csail.mit.edu/gem/ES_Sox2_example/ES_Sox2_example/ES_Sox2_2_result.htm'>(see an example and explanations)</a>
+<li>HTML file summarizing the GEM event and motif results <a href='http://cgs.csail.mit.edu/gem/ES_Sox2_example/ES_Sox2_2_result.htm'>(see an example and explanations)</a>
 <li>GEM output folder containing more detailed result files (Round 1 and 2 are GPS and GEM results, respectively <a href="#QA">(See more details)</a>)
 <ul>
     <li>GEM event text files (significant, insignificant and filtered)
