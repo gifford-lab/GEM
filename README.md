@@ -580,10 +580,4 @@ This software is for research use only.
 </td></tr></table>
 
 
-</div>  <!-- end gem page -->
-<!-- ***************  -->
-
-      
-    </body>
-</html>
 
