@@ -203,7 +203,7 @@ Second header line, e.g. "#3.01", the KSM motif score cutoff, optimized to give 
 
 <h3 style="color: RoyalBlue;"><a class="anchor" id="examples"></a>Examples:</h3>
 
-<a href="download/gps_test.tar.gz">This data</a>
+<a href="http://cgs.csail.mit.edu/gem/download/gps_test.tar.gz">This data</a>
 can be used to test GEM. It comes from a Ng lab publication <a href="http://www.ncbi.nlm.nih.gov/pubmed/18555785">(PMID:
 18555785)</a> and consists of Bowtie alignments of mouse ES cell
 CTCF ChIP-seq and GFP control reads. 
@@ -259,7 +259,7 @@ should match the condition name in <code>--exptX</code>.</td>
 </tr>
 <tr>
 <td><code>--g [path]</code></td>
-<td>The path to a <a href='versions.html'>genome information file (genome.chrom.sizes file)</a>. The file contains tab-delimited chromosome name/length pairs. Highly recommended, although not required. If it is not supplied, GEM will use the maximum value of read coordinate as the chomosome length.</td>
+<td>The path to a <a href='http://cgs.csail.mit.edu/gem/versions.html'>genome information file (genome.chrom.sizes file)</a>. The file contains tab-delimited chromosome name/length pairs. Highly recommended, although not required. If it is not supplied, GEM will use the maximum value of read coordinate as the chomosome length.</td>
 </tr>
 <tr>
 <td><code>--f [BED|SAM|BOWTIE|ELAND|NOVO]</code></td>
