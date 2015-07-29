@@ -136,7 +136,7 @@ GEM outputs both the binding event files and the motif files.
 Because of the read distribution re-estimation, GEM outputs event
 prediction and read distribution files for multiple rounds. <a href="#QA">(See more details)</a></p>
 <ol>
-<li>GEM event text file (GEM_events.txt, <a href="#gem">see more details</a>) 
+<li>GEM event text file (GEM_events.txt, <a href="#event">see more details</a>) 
 <li>K-mer set motifs (KSM.txt, <a href="#ksm">see more details</a>)
 <li>PFM file of PWM motifs (PFM.txt)
 <li>HTML file summarizing the GEM event and motif results <a href='http://cgs.csail.mit.edu/gem/ES_Sox2_example/ES_Sox2_2_result.htm'>(see an example and explanations)</a>
@@ -164,7 +164,7 @@ for loading the GEM results to Genome Browser as custom tracks for
 visualization. Note that in BED file, the coordinates are offset to
 left/right 100bp to give a region for visualization. </p>
 
-<p><a class="anchor" id="gem"></a>GEM event file is a tab-delimited file (xxx_n_GEM_events.txt ) with following fields: </p>
+<p><a class="anchor" id="event"></a>GEM event file is a tab-delimited file (xxx_n_GEM_events.txt ) with following fields: </p>
 
 <table style="font-family: arial,sans-serif; font-size: 10pt;" border="1">
 <tr><th>Field</th><th>Description</th></tr>
