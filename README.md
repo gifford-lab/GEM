@@ -575,51 +575,7 @@ This software is for research use only.
 <td valign="top">
 
 
-<table align="right" border="0" cellspacing="5">
-<tbody>
-<tr>
-<td> <!--img style="width: 200px; height: 133px; float: right;" alt="GPS logo" src="http://cgs.csail.mit.edu/gps/images/gps_logo_small.png"-->
-</td>
-</tr>
-<tr>
-<td>
-<table style="font-family: arial,sans-serif; font-size: 8pt; background-color: lightgrey;" border="0" frame="box" width="100%">
-<tbody>
-<tr>
-<td align="center"> <b>Contents</b></td>
-</tr>
-<tr>
-<td align="left" width="120">
-<ul>
-<li><a href="#download">Download</a></li>
-<li><a href="#requirements">System
-requirements</a></li>
-<li><a href="#readdistrib">Read
-distributions</a></li>
-<li><a href="#io">Input and
-output</a></li>
-<li><a href="#examples">Examples</a></li>
-<li><a href="#options">Command-line
-options</a></li>
-<li><a href="#QA">Q &amp; A</a></li>
-<li><a href="#contact">Contact</a></li>
-</ul>
-</td>
-</tr>
-<tr><td>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-
-<a href="images/ClustrMap_20150316/ClustrMap_20150316.htm"><img src="images/cgs.csail.mit.edu-gps--thumb.jpg" style="border:0px;" alt="Locations of visitors to this page, up to Mar 16, 2015" title="Locations of visitors to this page, up to Mar 16, 2015" id="clustrMapsImg_www4" />
-</a>
-<p>
-<a href="https://www.google.com/analytics/web/?hl=en#report/visitors-geo/a17612319w97365702p101490300/%3F_r.tabId%3Dexplorer%26explorer-table-dataTable.sortColumnName%3Danalytics.visits%26explorer-table-dataTable.sortDescending%3Dtrue%26explorer-table.plotKeys%3D[]/">Google Analytics</a>
-</td></tr></tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
 
 </td></tr></table>
 
