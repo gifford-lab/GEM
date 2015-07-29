@@ -1,6 +1,5 @@
 NOTE:  this repository contains the source code for GEM.  A compiled verision of the latest releast is available <a href="http://cgs.csail.mit.edu/gem/versions.html">here</a>.
-<h2>GEM</h2><br>
- High resolution peak calling and motif discovery for ChIP-seq and ChIP-exo data</h1> 
+<h2>GEM</h2>: High resolution peak calling and motif discovery for ChIP-seq and ChIP-exo data</h1> 
       <font size='+2'><b>G</b>enome wide <font size='+2'><b>E</b>vent finding and <font size='+2'><b>M</b>otif discovery<br>
       
       <p><font size="-1"><b>Citation</b>:<br>
