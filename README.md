@@ -58,7 +58,7 @@ If these three options are not used, GEM will just run GPS and stop.
 <p>As GPS, 
 read distribution file is required for GEM.  The
 user can use the default read distribution file provided with the
-software as starting point (<a href="download/Read_Distribution_default.txt">ChIP-seq default read distribution file</a> <a href="download/Read_Distribution_ChIP-exo.txt">ChIP-exo default read distribution file</a>). After one round of prediction, GEM will 
+software as starting point (<a href="http://cgs.csail.mit.edu/gem/download/Read_Distribution_default.txt">ChIP-seq default read distribution file</a> <a href="download/Read_Distribution_ChIP-exo.txt">ChIP-exo default read distribution file</a>). After one round of prediction, GEM will 
 re-estimate the read distribution using the predicted events.<br>
 <br>
 The
